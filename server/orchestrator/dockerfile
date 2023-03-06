@@ -1,0 +1,16 @@
+FROM node:lts-hydrogen
+
+WORKDIR /apps
+
+COPY . .
+
+RUN npm install --production
+
+ENV NODE_ENV=production
+ENV PORT=4000
+ENV PASSWORD_REDIS=vPaDZKrLb5pDqyZD3gspPGu5lgKbpVEB
+ENV HOST_REDIS=redis-17552.c252.ap-southeast-1-1.ec2.cloud.redislabs.com
+
+EXPOSE 4000
+
+CMD ["node", "app.js"]

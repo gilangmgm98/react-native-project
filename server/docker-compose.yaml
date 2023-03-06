@@ -1,0 +1,14 @@
+version: "3.9"
+services:
+  app:
+    build: ./services/App/
+    ports:
+      - "4002:4002"
+  users:
+    build: ./services/users/
+    ports:
+      - "4001:4001"
+  orchestrator:
+    build: ./orchestrator/
+    ports:
+      - "80:4000"

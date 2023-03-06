@@ -1,0 +1,50 @@
+[
+	{
+		"name" : "Deluxe Burger",
+		"description" : "Deluxe Burger & 1 Pc Chicken + Root Beer, Gratis Rice\/Soup\/Crispy Corn\/Sunny Egg",
+		"price" : 28000,
+		"imgUrl" : "https:\/\/www.awrestaurants.co.id\/assets\/images\/new-menus\/PG\/paketgratis-menu-4.png",
+		"mongoId" : "63fb017a226dc158d6d59281",
+		"categoryId" : 2
+	},
+	{
+		"name" : "Jumbo Chicken Sandwitch",
+		"description" : "Jumbo Chicken Sandwitch & 1 Pc Chicken + Root Beer, Gratis Rice\/Soup\/Crispy Corn\/Sunny Egg",
+		"price" : 25000,
+		"imgUrl" : "https:\/\/www.awrestaurants.co.id\/assets\/images\/new-menus\/PG\/paketgratis-menu-5.png",
+		"mongoId" : "63fb017a226dc158d6d59281",
+		"categoryId" : 2
+	},
+	{
+		"name" : "Blackpepper MixBowl",
+		"description" : "Blackpepper MixBowl & 1 Pc Chicken  + Root Beer, Gratis Rice\/Soup\/Crispy Corn\/Sunny Egg",
+		"price" : 30000,
+		"imgUrl" : "https:\/\/www.awrestaurants.co.id\/assets\/images\/new-menus\/PG\/paketgratis-menu-6.png",
+		"mongoId" : "63fb017a226dc158d6d59281",
+		"categoryId" : 1
+	},
+	{
+		"name" : "2 Pc Chicken & 1 Root Beer",
+		"description" : "2 PC chicken dan Root Beer, Gratis Rice\/Soup\/Crispy Corn\/Sunny Egg",
+		"price" : 40000,
+		"imgUrl" : "https:\/\/www.awrestaurants.co.id\/assets\/images\/new-menus\/PG\/paketgratis-menu-1.png",
+		"mongoId" : "63fb017a226dc158d6d59281",
+		"categoryId" : 1
+	},
+	{
+		"name" : "1 Pc Chicken & Soup + Root Beer",
+		"description" : "1 Pc Chicken & Soup + Root Beer, Gratis Rice\/Soup\/Crispy Corn\/Sunny Egg",
+		"price" : 35000,
+		"imgUrl" : "https:\/\/www.awrestaurants.co.id\/assets\/images\/new-menus\/PG\/paketgratis-menu-2.png",
+		"mongoId" : "63fb017a226dc158d6d59281",
+		"categoryId" : 1
+	},
+	{
+		"name" : "1 Pc Chicken & 4 Pc Chicken Chunks + Root Beer",
+		"description" : "1 Pc Chicken & 4 Pc Chicken Chunks + Root Beer, Gratis Rice\/Soup\/Crispy Corn\/Sunny Egg",
+		"price" : 27000,
+		"imgUrl" : "https:\/\/www.awrestaurants.co.id\/assets\/images\/new-menus\/PG\/paketgratis-menu-3.png",
+		"mongoId" : "63fb017a226dc158d6d59281",
+		"categoryId" : 1
+	}
+]

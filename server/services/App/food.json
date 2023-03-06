@@ -1,0 +1,98 @@
+[
+    {
+        "name": "2 PC Chicken",
+        "description": "2 PC Chicken with RB and Free Rice/Soup/Sunny Egg",
+        "price": 25000,
+        "imgUrl": "https://www.awrestaurants.co.id/assets/images/new-menus/PG/paketgratis-menu-1.png",
+        "mongoId": "63f72abbafc8b0b02c221dc4",
+        "categoryId": 1
+    },
+    {
+        "name": "1 PC Chicken",
+        "description": "1 PC Chicken with Soup and RB and Free Rice/Soup/Sunny Egg",
+        "price": 25000,
+        "imgUrl": "https://www.awrestaurants.co.id/assets/images/new-menus/PG/paketgratis-menu-2.png",
+        "mongoId": "63f72abbafc8b0b02c221dc4",
+        "categoryId": 1
+    },
+    {
+        "name": "2 PC Chicken",
+        "description": "2 PC Chicken with RB and Free Rice/Soup/Sunny Egg",
+        "price": 25000,
+        "imgUrl": "https://www.awrestaurants.co.id/assets/images/new-menus/PG/paketgratis-menu-1.png",
+        "mongoId": "63f72abbafc8b0b02c221dc4",
+        "categoryId": 1
+    },
+    {
+        "name": "1 PC Chicken",
+        "description": "1 PC Chicken with Soup and RB and Free Rice/Soup/Sunny Egg",
+        "price": 25000,
+        "imgUrl": "https://www.awrestaurants.co.id/assets/images/new-menus/PG/paketgratis-menu-2.png",
+        "mongoId": "63f72abbafc8b0b02c221dc4",
+        "categoryId": 1
+    },
+    {
+        "name": "2 PC Chicken",
+        "description": "2 PC Chicken with RB and Free Rice/Soup/Sunny Egg",
+        "price": 25000,
+        "imgUrl": "https://www.awrestaurants.co.id/assets/images/new-menus/PG/paketgratis-menu-1.png",
+        "mongoId": "63f72abbafc8b0b02c221dc4",
+        "categoryId": 1
+    },
+    {
+        "name": "1 PC Chicken",
+        "description": "1 PC Chicken with Soup and RB and Free Rice/Soup/Sunny Egg",
+        "price": 25000,
+        "imgUrl": "https://www.awrestaurants.co.id/assets/images/new-menus/PG/paketgratis-menu-2.png",
+        "mongoId": "63f72abbafc8b0b02c221dc4",
+        "categoryId": 1
+    },
+    {
+        "name": "2 PC Chicken",
+        "description": "2 PC Chicken with RB and Free Rice/Soup/Sunny Egg",
+        "price": 25000,
+        "imgUrl": "https://www.awrestaurants.co.id/assets/images/new-menus/PG/paketgratis-menu-1.png",
+        "mongoId": "63f72abbafc8b0b02c221dc4",
+        "categoryId": 1
+    },
+    {
+        "name": "1 PC Chicken",
+        "description": "1 PC Chicken with Soup and RB and Free Rice/Soup/Sunny Egg",
+        "price": 25000,
+        "imgUrl": "https://www.awrestaurants.co.id/assets/images/new-menus/PG/paketgratis-menu-2.png",
+        "mongoId": "63f72abbafc8b0b02c221dc4",
+        "categoryId": 1
+    },
+    {
+        "name": "2 PC Chicken",
+        "description": "2 PC Chicken with RB and Free Rice/Soup/Sunny Egg",
+        "price": 25000,
+        "imgUrl": "https://www.awrestaurants.co.id/assets/images/new-menus/PG/paketgratis-menu-1.png",
+        "mongoId": "63f72abbafc8b0b02c221dc4",
+        "categoryId": 1
+    },
+    {
+        "name": "1 PC Chicken",
+        "description": "1 PC Chicken with Soup and RB and Free Rice/Soup/Sunny Egg",
+        "price": 25000,
+        "imgUrl": "https://www.awrestaurants.co.id/assets/images/new-menus/PG/paketgratis-menu-2.png",
+        "mongoId": "63f72abbafc8b0b02c221dc4",
+        "categoryId": 1
+    },
+    {
+        "name": "2 PC Chicken",
+        "description": "2 PC Chicken with RB and Free Rice/Soup/Sunny Egg",
+        "price": 25000,
+        "imgUrl": "https://www.awrestaurants.co.id/assets/images/new-menus/PG/paketgratis-menu-1.png",
+        "mongoId": "63f72abbafc8b0b02c221dc4",
+        "categoryId": 1
+    },
+    {
+        "name": "1 PC Chicken",
+        "description": "1 PC Chicken with Soup and RB and Free Rice/Soup/Sunny Egg",
+        "price": 25000,
+        "imgUrl": "https://www.awrestaurants.co.id/assets/images/new-menus/PG/paketgratis-menu-2.png",
+        "mongoId": "63f72abbafc8b0b02c221dc4",
+        "categoryId": 1
+    }
+]

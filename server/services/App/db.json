@@ -1,0 +1,50 @@
+{
+  "Items": [
+    {
+      "name": "2 PC Chicken",
+      "description": "2 PC Chicken with RB and Free Rice/Soup/Sunny Egg",
+      "price": 25000,
+      "imgUrl": "https://www.awrestaurants.co.id/assets/images/new-menus/PG/paketgratis-menu-1.png",
+      "authorId": 1,
+      "categoryId": 1
+    },
+    {
+      "name": "1 PC Chicken",
+      "description": "1 PC Chicken with Soup and RB and Free Rice/Soup/Sunny Egg",
+      "price": 25000,
+      "imgUrl": "https://www.awrestaurants.co.id/assets/images/new-menus/PG/paketgratis-menu-2.png",
+      "authorId": 1,
+      "categoryId": 1
+    }
+  ],
+  "Categories": [
+    {
+      "id": 1,
+      "name": "Paket 1",
+      "imgUrl": "https://www.awrestaurants.co.id/assets/images/new-menus/PG/paketgratis-menu-1.png"
+    },
+    {
+      "id": 2,
+      "name": "Paket 2",
+      "imgUrl": "https://www.awrestaurants.co.id/assets/images/new-menus/PG/paketgratis-menu-2.png"
+    }
+  ],
+  "Ingredients": [
+    {
+      "id": 1,
+      "itemId": 1,
+      "name": "Ayam dan Tepung"
+    }
+  ],
+  "Users": [
+    {
+      "id": 1,
+      "username": "gilangmgm",
+      "email": "gilang@mail.com",
+      "password": "qwerty",
+      "role": "Admin",
+      "phoneNumber": "02199944300",
+      "address": "Jakarta"
+    }
+  ]
+}
